@@ -1,0 +1,11 @@
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherStation.csprojAssemblyReference.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherStation.csproj.CoreCompileInputs.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherStation.AssemblyInfoInputs.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherStation.AssemblyInfo.cs
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherStation.deps.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherStation.runtimeconfig.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherStation.runtimeconfig.dev.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherStation.dll
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherStation.pdb
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherStation.dll
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherStation.pdb

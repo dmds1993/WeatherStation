@@ -1,0 +1,11 @@
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherDatas.deps.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherDatas.runtimeconfig.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherDatas.runtimeconfig.dev.json
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherDatas.dll
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\bin\Debug\netcoreapp2.1\WeatherDatas.pdb
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherDatas.csprojAssemblyReference.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherDatas.csproj.CoreCompileInputs.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherDatas.AssemblyInfoInputs.cache
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherDatas.AssemblyInfo.cs
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherDatas.dll
+C:\Users\Michelle P Santos\Documents\daniel\DOTNET\WeatherData\WeatherData\obj\Debug\netcoreapp2.1\WeatherDatas.pdb
